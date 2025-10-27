@@ -1,0 +1,8 @@
+[
+	{
+		make: Trane,
+		oem_domain: trane.com,
+		tier: 1,
+		verified: yes
+	}
+]
